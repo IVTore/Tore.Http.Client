@@ -1,5 +1,5 @@
 # Tore.Http.Client
-Http utilities library for C# By İ. Volkan Töre.
+Http Client class library for C# By İ. Volkan Töre.
 
 Language: C#.
 
