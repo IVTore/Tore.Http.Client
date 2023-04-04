@@ -5,7 +5,6 @@ Language: C#.
 
 Nuget package: [Tore.Http.Client](https://www.nuget.org/packages/Tore.Http.Client/)
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Dependencies: <br/>
