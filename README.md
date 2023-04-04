@@ -5,11 +5,12 @@ Language: C#.
 
 Nuget package: [Tore.Http.Client](https://www.nuget.org/packages/Tore.Http.Client/)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Dependencies: <br/>
-    net 7.0
-    Tore.Core 8.0.0+
+net 7.0<br/>
+Tore.Core 8.0.0+
 
 Changes:
     
@@ -39,7 +40,7 @@ Otherwise, create a Client object and manipulate the request via
    - The Client instance properties, like: content, accept, mediaType.
    - The Client.request, the HttpRequestMessage property, directly.
 
-Then use instance send() or sendAsync() routines. 
+Then use INSTANCE send() or sendAsync() routines. 
   
 IMPORTANT:
 Instance content, accept and mediaType properties are transferred to request just before sending it.
