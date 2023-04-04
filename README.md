@@ -1,4 +1,4 @@
-# Tore.Core
+# Tore.Http.Client
 Http utilities library for C# By İ. Volkan Töre.
 
 Language: C#.
@@ -8,9 +8,8 @@ Nuget package: [Tore.Http.Client](https://www.nuget.org/packages/Tore.Http.Clien
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
 
 Dependencies: <br/>
-net 7.0
-Tore.Core 8.0.0+
-Newtonsoft.Json 13+
+    net 7.0
+    Tore.Core 8.0.0+
 
 Changes:
     
